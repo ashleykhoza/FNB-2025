@@ -6,3 +6,19 @@ p{
     color: rgba(38, 170, 28, 0.593);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+ul{
+    list-style-image: url(pointer-icon)
+}
+ol{
+    list-style-type: circle;
+}
+#menu-bar a{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    background-color: rgb(0, 208, 255);
+    padding:5;
+}
+#menu-bar a:hover{
+    background-color:cornsilk ;
+    color: black;
+}
